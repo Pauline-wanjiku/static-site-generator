@@ -1,5 +1,9 @@
 ---
 title: Pauline's Blog Post
+description: Nothing yet
+quote: "hello world"
+date: 19 Jan 2023
+author: Pauline Wanjiku
 ---
 
 ## _👋 Hi _##
