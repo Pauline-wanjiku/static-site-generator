@@ -13,27 +13,16 @@ It should be able to:
 - articles
 - supporting pages (e.g. an about page and some error pages).
 
-[template-page-src]https://www.tailwindtoolbox.com/templates/minimal-blog
+#### Front tools
 
-#### Reading File in Node.js
+- [tailwind](https://tailwindcss.com/)
 
-The simplest way to read a file in Node.js is to use the fs.readFile() method.
-[Read-file]https://nodejs.dev/en/learn/reading-files-with-nodejs/
+## Installation
 
-#### gray-matter
+`npm install `
 
-Read the front-matter portion of ms file and parse its using gray-matter.
-[gray-matter]https://www.npmjs.com/package/gray-matter-from-file?activeTab=readme
+npm install will install the necessary packages this includes
 
-###### installation
-
-`npm install -g gray-matter`
-
-#### marked
-
-To generate from markdown files and generates and HTML code.
-[marked]https://marked.js.org/
-
-##### installation
-
-npm install -g marked
+- [gray-matter](https://www.npmjs.com/package/gray-matter-from-file?activeTab=readme)
+- [marked](https://marked.js.org/)
+- [mkdirp](https://www.npmjs.com/package/mkdirp)
