@@ -19,7 +19,7 @@ It should be able to:
 
 ## Installation
 
-`npm install `
+` npm install `
 
 npm install will install the necessary packages this includes
 
